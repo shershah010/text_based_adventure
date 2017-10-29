@@ -1,0 +1,4 @@
+﻿  TextGame.cpp
+e:\textgame\textgame\textgame\textgame.cpp(38): warning C4018: '<': signed/unsigned mismatch
+e:\textgame\textgame\textgame\textgame.cpp(60): warning C4018: '<': signed/unsigned mismatch
+  TextGame.vcxproj -> E:\TextGame\TextGame\Debug\TextGame.exe
