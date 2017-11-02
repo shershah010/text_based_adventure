@@ -15,5 +15,9 @@ public:
 
 	
 	string use(int x, int y, string item);
+
+	string inspect(int x, int y, string object);
+
+	void change();
 };
 
